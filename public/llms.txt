@@ -72,7 +72,31 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 4**
+
+### SoundArc Noir Elite
+https://example.com/product/soundarc-noir-elite-wwhly7
+- Price: 499.00 USD
+- Availability: In stock
+- Description: The flagship SoundArc experience. Hand-assembled with aerospace-grade aluminum, genuine leather ear cups, and our most advanced ANC system. For those who accept no compromise.
+
+### SoundArc Air Lite
+https://example.com/product/soundarc-air-lite-kn71p5
+- Price: 179.00 USD
+- Availability: In stock
+- Description: Lightweight wireless on-ear headphones with 25-hour battery, Bluetooth 5.3, and a minimalist design inspired by Apple's iconic aesthetic. Perfect for everyday listening.
+
+### SoundArc Studio S3
+https://example.com/product/soundarc-studio-s3-rtv9ct
+- Price: 249.00 USD
+- Availability: In stock
+- Description: Professional studio headphones engineered for accuracy and warmth. Foldable design, detachable cable, and premium memory foam ear cushions for extended sessions.
+
+### SoundArc Pro X1
+https://example.com/product/soundarc-pro-x1-x1o10o
+- Price: 349.00 USD
+- Availability: In stock
+- Description: Premium over-ear headphones with Hi-Res Audio certification, 40kHz frequency response, and adaptive noise cancellation. 30-hour battery life with quick-charge support.
 
 ---
 

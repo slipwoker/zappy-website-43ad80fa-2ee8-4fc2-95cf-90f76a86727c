@@ -4,6 +4,50 @@
     <title>SoundArc</title>
     <link>https://example.com</link>
     <description>Product feed for SoundArc</description>
-    <lastBuildDate>Tue, 19 May 2026 10:01:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 10:03:13 GMT</lastBuildDate>
+    <item>
+      <g:id>bc2fff23-cf5f-4ac1-9b03-d0cd20a7aa85</g:id>
+      <g:title>SoundArc Noir Elite</g:title>
+      <g:description>The flagship SoundArc experience. Hand-assembled with aerospace-grade aluminum, genuine leather ear cups, and our most advanced ANC system. For those who accept no compromise.</g:description>
+      <g:link>https://example.com/product/soundarc-noir-elite-wwhly7</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>499.00 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>SoundArc</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>d8fec027-9a3c-4c18-863f-003fd1438252</g:id>
+      <g:title>SoundArc Air Lite</g:title>
+      <g:description>Lightweight wireless on-ear headphones with 25-hour battery, Bluetooth 5.3, and a minimalist design inspired by Apple&apos;s iconic aesthetic. Perfect for everyday listening.</g:description>
+      <g:link>https://example.com/product/soundarc-air-lite-kn71p5</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>179.00 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>SoundArc</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>af0669cd-011a-4e51-9a57-865b212c546c</g:id>
+      <g:title>SoundArc Studio S3</g:title>
+      <g:description>Professional studio headphones engineered for accuracy and warmth. Foldable design, detachable cable, and premium memory foam ear cushions for extended sessions.</g:description>
+      <g:link>https://example.com/product/soundarc-studio-s3-rtv9ct</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>249.00 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>SoundArc</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>466d5606-6a9c-40c3-b26e-f1e5277837bb</g:id>
+      <g:title>SoundArc Pro X1</g:title>
+      <g:description>Premium over-ear headphones with Hi-Res Audio certification, 40kHz frequency response, and adaptive noise cancellation. 30-hour battery life with quick-charge support.</g:description>
+      <g:link>https://example.com/product/soundarc-pro-x1-x1o10o</g:link>
+      <g:availability>in_stock</g:availability>
+      <g:price>349.00 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>SoundArc</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>
