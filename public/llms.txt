@@ -1,0 +1,100 @@
+# SoundArc — Generative Engine Optimization Map
+
+> A premium headphones retail brand inspired by Apple's iconic design philosophy — clean, minimalist, and sophisticated. The visual identity centers on a stark black-and-white palette with modern, high-quality product imagery. The overall vibe is sleek, tech-forward, and aspirational, positioning the brand as a top-tier audio destination.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover SoundArc&#39;s elite headphone collection — where Apple-inspired minimalism meets audiophile-grade sound. Shop our Shopify ecommerce store and hear the difference.
+
+### Services
+https://example.com/services
+SoundArc&#39;s ecommerce fulfillment services guarantee fast, flawless delivery of every premium headphone order. Experience white-glove logistics built for audio enthusiasts.
+
+### About
+https://example.com/about
+SoundArc was built on one belief: great sound deserves great design. Explore our story, our minimalist vision, and why we&#39;re redefining the amazon ecommerce platform standard.
+
+### Contact
+https://example.com/contact
+Have questions about our Shopify ecommerce website or need help choosing your perfect pair? Reach the SoundArc team today — expert audio guidance is just one message away.
+
+### Products
+https://example.com/products
+Our Products - SoundArc
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - SoundArc
+
+### Category
+https://example.com/category/:slug
+Products - SoundArc
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About SoundArc
+A premium headphones retail brand inspired by Apple's iconic design philosophy — clean, minimalist, and sophisticated. The visual identity centers on a stark black-and-white palette with modern, high-quality product imagery. The overall vibe is sleek, tech-forward, and aspirational, positioning the brand as a top-tier audio destination.
+
+## Target Audience
+- Music Enthusiasts
+- Remote Workers
+- Gaming Enthusiasts
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
